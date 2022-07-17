@@ -14,6 +14,7 @@ var mailOptions ={
   subject: 'Just testing samfin',
   http: '<h1>Lorenzo David</h1>'
 //jummai is a goat };
+//Lorenzo is the biggest goat
 
 transporter.sendMail(mailOptions, function(err, info){
   if (err){
